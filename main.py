@@ -1,4 +1,3 @@
 import Producerdemo
 
-
-print(Producerdemo.producer)
+Producerdemo.sample_producer()
